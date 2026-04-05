@@ -1,0 +1,88 @@
+# ======================
+# Python basics
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# ======================
+# Jupyter notebooks
+# ======================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ======================
+# Data (critical)
+# ======================
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.parquet
+*.h5
+
+# Exception: keep sample data
+!data/sample/
+
+# ======================
+# Models & outputs
+# ======================
+models/
+checkpoints/
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.joblib
+*.pkl
+*.sav
+
+# ======================
+# Logs & experiments
+# ======================
+logs/
+wandb/
+mlruns/
+tensorboard/
+*.log
+
+# ======================
+# Cache & temp
+# ======================
+.cache/
+*.tmp
+*.temp
+
+# ======================
+# OS junk
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# VS Code
+# ======================
+.vscode/
+
+# ======================
+# Secrets
+# ======================
+.env
+.env.*
+*.key
+*.pem
+
+# ======================
+# Build / packaging
+# ======================
+build/
+dist/
+*.egg-info/
