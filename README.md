@@ -2,15 +2,17 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge\&logo=python)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?style=for-the-badge\&logo=scikitlearn)
-![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-red?style=for-the-badge)
-![CatBoost](https://img.shields.io/badge/CatBoost-Boosting-yellow?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical-blue?style=for-the-badge\&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-EDA-teal?style=for-the-badge)
-![Kaggle](https://img.shields.io/badge/Kaggle-House%20Prices-20BEFF?style=for-the-badge\&logo=kaggle)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9-3776AB.svg?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/scikit--learn-ML-F7931E.svg?logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting-EB5B2B.svg" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/CatBoost-Boosting-FFCC00.svg" alt="CatBoost" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458.svg?logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical-013243.svg?logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C.svg" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-EDA-4C72B0.svg" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Kaggle-House%20Prices-20BEFF.svg?logo=kaggle&logoColor=white" alt="Kaggle" />
+</p>
 
 </div>
 
